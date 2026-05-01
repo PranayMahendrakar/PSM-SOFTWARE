@@ -4,3 +4,4 @@
 - [2026-03-05T11:41:43Z] docs: improve inline documentation
 - [2026-03-05T13:34:15Z] docs: update README with usage examples
 - [2026-03-05T08:57:32Z] docs: update README with usage examples
+- [2026-05-01T22:33:06Z] feat: add helper utility function
